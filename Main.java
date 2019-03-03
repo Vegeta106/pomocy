@@ -2,11 +2,14 @@ package com.company;
 
 import java.io.File;
 import java.io.RandomAccessFile;
-import java.io.IOException;
 
 public class Main {
 /*
-    public static int kutas(String plik1, String nazwaTowaru) {
+
+///////////////////Pierwsze zadanie
+
+
+    public static int kok(String plik1, String nazwaTowaru) {
         int zwrocenie = 0;
         File plik = new File(plik1);
 
@@ -52,9 +55,9 @@ public class Main {
 
 
 
+/////////////////////////Drugie zadanie
 
-
-public String kutas(String plik1) {
+public String kok(String plik1) {
     File plik = new File(plik1);
     String najwiekszy = "";
     try {
@@ -82,6 +85,7 @@ public String kutas(String plik1) {
     return najwiekszy;
 }
 */
+/////////////////////Trzecie zadanie
 
     public static int[] hash(String zycieToZart[][]){
 
